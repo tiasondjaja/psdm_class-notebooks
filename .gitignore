@@ -1,0 +1,8 @@
+*.pdf
+*.gz
+*.tex
+*.cls
+*-notes.ipynb
+.ipynb_checkpoints/
+*.html
+*.sty
