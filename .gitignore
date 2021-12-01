@@ -5,10 +5,9 @@
 # lesson05
 # lesson06
 # lesson07
-lesson07/images
 # lesson08
 # lesson10
-lesson11
+# lesson11
 lesson12
 *.pdf
 *.gz
@@ -19,3 +18,5 @@ lesson12
 *.html
 *.sty
 2021-spring
+lesson01/images
+lesson07/images
